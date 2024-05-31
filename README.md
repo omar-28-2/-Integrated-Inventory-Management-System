@@ -1,2 +1,1 @@
-# Moodle-Simulator
-Experienced student proficient in C++ development. Led a team to create a Moodle simulator, demonstrating expertise in OOP, file organization, and inheritance features. On-time delivery with clear documentation.
+Experienced software engineer proficient in C++ seeking opportunities. Designed and implemented an Integrated Inventory Management System for a factory, leveraging various data structures for efficient organization. Skilled in algorithm design and implementation. Open to new challenges and collaborations.
